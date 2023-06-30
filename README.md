@@ -6,7 +6,7 @@
     <body>
         <title>fifa 23</title>
         <h1 style="text-align: center">FIFA 23</h1>
-        <img src="137503969/775b8cf2-162a-4de8-8a14-d8f9f4300bf3">
+        <img src="137503969/9a3054a6-2d27-4f1f-bf67-644bba464a7b">
         <h1 style="text-align: center">sobre o fifa 23</h1>
         <p style="text-align: center">A FIFA é a Federação Internacional do Futebol,
          e possui como principal objetivo supervisionar as federações e confederações existentes
@@ -36,7 +36,7 @@
         <p style="text-align: center;">Fifa 23 chega em breve com novidades em sua jogabilidade, gráficos e mais. O game traz também várias curiosidades interessantes, como a presença do treinador Ted Lasso da série da Apple TV, atletas desenhados por artista da Marvel , uma mudança radical no modo Ultimate Team e mais.
             Confira algumas curiosidades de FIFA 23 que será lançado em 30 de setembro para PS5, Xbox Series X/S, PS4, Xbox One e PC pelas lojas digitais Steam, Epic Games Store e Origin, com uma versão Legado para Nintendo Switch.</p>
         <p style="text-align: center;"> FIFA 23 chega para saciar a ansiedade da comunidade de futebol virtual no dia 30 deste mês. Último da franquia a levar o nome da entidade máxima do futebol, o simulador trará diversas novidades no quesito gameplay, modos de jogo, novas ligas e mais. Confira no ge tudo o que se sabe até agora sobre a nova versão do jogo da EA Sports.</p>
-          <img src="137503969/5648307d-f2b1-493f-ac33-469baf3e826a">
+          <img src="">
         <h2>cosplay</h2>
         <p style="text-align: center;">Uma das grandes novidades do FIFA 23 será o crossplay. Agora, será possível jogar com jogadores de diferentes plataformas. A única condição, porém, é que para funcionar, os consoles precisam ser da mesma geração. Ou seja, quem estiver jogando na geração (PlayStation 5, Xbox Series S|X, Stadia e PC) não consegue enfrentar quem estiver em consoles antigos – neste caso, PlayStation 4 e Xbox One.</p>
             <body>
