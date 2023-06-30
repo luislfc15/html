@@ -6,7 +6,7 @@
     <body>
         <title>fifa 23</title>
         <h1 style="text-align: center">FIFA 23</h1>
-        <img src="fifa23.jpg" class="imagem">
+        <img src="https://github.com/luislfc15/html/assets/137503969/775b8cf2-162a-4de8-8a14-d8f9f4300bf3">
         <h1 style="text-align: center">sobre o fifa 23</h1>
         <p style="text-align: center">A FIFA é a Federação Internacional do Futebol,
          e possui como principal objetivo supervisionar as federações e confederações existentes
